@@ -1,7 +1,5 @@
-# hydra website remake!
+# Hydra Website Copy
 
+https://hydra.bot/ Copied
 
-
-
-
-###### original link: https://hydra.bot/
+Enjoy or something idk
