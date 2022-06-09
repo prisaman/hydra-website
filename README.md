@@ -1,5 +1,7 @@
 # Hydra Website Remake
 
-https://hydra.bot/ Remaked
+## https://hydra.bot/ Remaked
 
-Enjoy or something idk
+### remake by: Yotam#8888, pwul#0001
+
+###### (free to use)
